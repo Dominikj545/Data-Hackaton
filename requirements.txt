@@ -1,5 +1,4 @@
-import pandas as pd
-import sqlite3 as sql
-import ipywidgets as widgets
-from ipyleaflet import Map, Polyline, Marker, Popup, basemaps, LayersControl
-from IPython.display import display
+pandas
+sqlite3
+ipywidgets
+ipyleaflet
