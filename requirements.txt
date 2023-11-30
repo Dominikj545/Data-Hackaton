@@ -1,4 +1,5 @@
-pandas
-ipywidgets
-ipyleaflet
-Voila
+pandas==1.5.3
+ipywidgets==8.0.4
+ipyleaflet==0.17.4
+ipympl==0.9.3
+voila==0.5.5
